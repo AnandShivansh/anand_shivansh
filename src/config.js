@@ -4,7 +4,7 @@ module.exports = {
     'Shivansh Anand is a software engineer based in Hyderabad, India who specializes in building websites, applications, and everything in between.',
   siteKeywords:
     'Shivansh Anand, Shivansh, Anand, _shivansh__anand_, software engineer, app developer, web developer, python, india',
-  siteUrl: 'https://github.com/anandshivansh',
+  siteUrl: 'https://shivanshanand.netlify.app',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
