@@ -18,7 +18,7 @@ module.exports = {
       options: {
         name: 'Shivansh Anand',
         short_name: 'ShivanshAnand',
-        // start_url: '~shivansh.anand',
+        // start_url: 'shivanshanand.netlify.app',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
