@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://github.com/sitemap.xml
-Host: https://github.com
+Sitemap: https://shivanshanand.netlify.app/sitemap.xml
+Host: https://shivanshanand.netlify.app
