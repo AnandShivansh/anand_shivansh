@@ -1,6 +1,6 @@
 ---
 date: '2020-05-01'
-title: 'Co-founder and Head of Development Team'
+title: 'Head of Development Team'
 company: 'Krishi Sevak'
 location: 'Ayodhya, India'
 range: 'May 2020 - Present'
